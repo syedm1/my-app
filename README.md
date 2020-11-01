@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Built the code for InLogik Assesment
+## Code for InLogik Assesment
 
 ## Available Scripts
 
